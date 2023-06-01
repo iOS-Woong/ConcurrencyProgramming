@@ -18,3 +18,12 @@
 2. Qos (Quality_Of_Service)
 3. async
 4. DispatchGroup
+5. RaceCondition & Thread Safe에 대해서
+6. 해결: DispatchSemaphore, SerialQueue
+7. UI작업은 왜 메인스레드에서 해줘야할까? 에 대해서
+
+## Operation
+1. Operation, OperationQueue
+2. Operation심화
+3. operationQueue심화
+4. 예제_RaceCondition 해결
