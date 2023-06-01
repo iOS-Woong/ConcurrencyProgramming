@@ -12,3 +12,9 @@
 1. DispatchQueue_Serial/Concurrent
 2. sync/async
 3. 복습및개념
+
+## GCD 심화
+1. DispatchQueue의 초기화
+2. Qos (Quality_Of_Service)
+3. async
+4. DispatchGroup
